@@ -1,0 +1,408 @@
+body {
+    overflow-x: hidden !important;
+}
+
+.button {
+    background-color: #F19CAD;
+    border-color: #F19CAD;
+    color: white;
+
+}
+
+.button:hover {
+    background-color: #F0859A;
+    border-color: #F19CAD;
+    color: white;
+}
+
+
+select:focus,
+input:focus {
+    border-color: #F0859A !important;
+    box-shadow: none !important;
+}
+
+.optionBtn {
+    margin-top: 10px;
+}
+
+.navColor {
+    color: #F0859A !important;
+}
+
+.masukDaftar {
+    text-decoration: none;
+    color: #F0859A !important;
+    border-color: #F0859A;
+    background-color: #ffffff;
+}
+
+.masukDaftar:hover {
+    background-color: #F0859A;
+    border: none;
+    color: white !important;
+}
+
+
+.tes {
+    font-size: 16px;
+}
+
+.numberCard {
+    background-color: #F0859A !important;
+}
+
+.keranjangButton {
+    background-color: #f0859a;
+    border: none;
+    margin-right: 10px;
+}
+
+.btn-secondary:hover {
+    background-color: #F19CAD !important;
+}
+
+.merekJumbotron {
+    color: #F19CAD !important;
+    border: #F0859A;
+}
+
+/*  Halaman home */
+.produkTerbaru {
+    color: #F0859A !important;
+}
+
+/* Tentang rainbow */
+.tentangRainbow {
+    background-color: #F0859A;
+}
+
+/* Halaman ShopingCart */
+.rrr {
+    width: 550px;
+}
+
+.bbb {
+    width: 300px;
+}
+
+.info {
+    position: absolute;
+    font-size: 24px;
+    margin-top: 15px;
+    margin-left: 35px;
+}
+
+.pesan {
+    position: absolute;
+    font-size: 25px;
+    margin-top: 14px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+.totalHarga {
+    /* position: relative; */
+    margin-left: 700px;
+}
+
+.emailKami p {
+    font-size: 14px;
+}
+
+
+.emailKami {
+    font-size: 14px;
+    margin-left: 75px;
+    margin-top: 15px;
+}
+
+.butuhBantuan {
+    margin-left: 70px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.butuhBantuan p {
+    font-size: 14px;
+    line-height: 23px;
+}
+
+.gambarDetail {
+    width: 120px;
+    height: 120px;
+}
+
+.detailProduk {
+    list-style: none;
+    margin-left: 150px;
+    margin-top: -110px;
+    padding-bottom: 20px;
+    font-size: 16px;
+}
+
+.inputJumlah {
+    width: 60px;
+}
+
+.cobba {
+    margin-top: -90px;
+    letter-spacing: 1px;
+    font-weight: 200 !important;
+}
+
+/* Checkout */
+.widgetDataPengiriman p {
+    line-height: 9px;
+    letter-spacing: 0.5px;
+}
+
+.widgetDataPengiriman a button {
+    font-size: 17px;
+}
+
+.dataPengirimanMobile p {
+    font-size: 14px;
+    line-height: 10px;
+    color: #c43b56;
+}
+
+.btnDataPengiriman {
+    background-color: #F0859A;
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: white;
+    padding: 7px 8px 7px 8px;
+}
+
+.btn-prosesMobile {
+    background-color: #F0859A;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+
+.widgetTransaksiMobile {
+    font-size: 14px;
+    line-height: 10px;
+}
+
+.untukOutline {
+    background: transparent;
+    color: #F0859A;
+    border: solid 1px #F0859A;
+}
+
+.untukOutline:hover {
+    color: #F0859A;
+}
+
+.inputText {
+    width: 310px;
+}
+
+.select {
+    width: 101px;
+    margin-left: 5px;
+}
+
+/* end */
+/* Login */
+.belumPunya {
+    color: #666565;
+    /* font-size: 14px; */
+}
+
+.belumPunya a {
+    color: #F0859A;
+    text-decoration: underline;
+}
+
+.paswordLupa:hover,
+.paswordLupa {
+    color: #F0859A;
+}
+
+.fontMobileLogin {
+    font-size: 12px;
+}
+
+.hilangBorder {
+    border: none;
+}
+
+/* TampilanAkun */
+.orderAlamat p {
+    width: 320px;
+    line-height: 10px;
+}
+
+.namaEmail p {
+    line-height: 10px;
+}
+
+.produkDetailAkun {
+    margin-top: -120px;
+    font-size: 14px;
+}
+
+.produkMobile {
+    list-style: none;
+    font-size: 14px;
+}
+
+.btn-link,
+.btn-link:hover {
+    color: #F0859A;
+    font-size: 18px;
+}
+
+.ukuranDiProduk {
+    height: 400px !important;
+}
+
+/* end Tampilan */
+/* End Login */
+/* mobile */
+.kembaliMobile {
+    border-bottom: solid 1px #F0859A;
+    color: #f0859a;
+    font-size: 14px;
+}
+
+.infoMobile {
+    font-size: 12px;
+}
+
+.detailProdukMobile {
+    font-size: 14px;
+    margin-top: -120px;
+}
+
+/* TampilanSukses */
+.kodePesanan p {
+    font-size: 24px;
+    color: rgb(39, 38, 38);
+}
+
+.silahkan {
+    color: #000000;
+}
+
+.noRek {
+    color: #000000;
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 28px;
+    letter-spacing: 3px;
+}
+
+.caraPembayaran {
+    font-size: 18px;
+}
+
+@media (min-width: 576px) {
+    body {
+        overflow-x: hidden !important;
+    }
+
+    .ukuranDiProduk {
+        height: 500px !important;
+    }
+}
+
+@media (min-width: 768px) {
+    body {
+        overflow-x: hidden !important;
+    }
+
+    .ukuranDiProduk {
+        height: 600px !important;
+    }
+
+    .info,
+    .pesan {
+        margin-left: 17px;
+    }
+
+    .butuhBantuan {
+        margin-left: 50px;
+    }
+
+    .pesan {
+        font-size: 22px;
+    }
+
+    .emailKami {
+        margin-left: 55px;
+    }
+
+    .emailKami p,
+    .butuhBantuan p {
+        font-size: 12px;
+    }
+
+    .detailProduk {
+        font-size: 14px;
+    }
+
+    .gambarDetail {
+        width: 100px;
+        height: 100px;
+    }
+
+    .rrr {
+        width: 300px;
+    }
+
+    .bbb {
+        width: 200px;
+    }
+
+    .noRek {
+        font-size: 20px;
+    }
+
+
+}
+
+@media (min-width: 992px) {
+    .optionBtn {
+        margin-top: 0px;
+    }
+
+    .rrr {
+        width: 420px;
+    }
+
+    .bbb {
+        width: 250px;
+    }
+
+    .fotoAkun {
+        width: 50%;
+    }
+
+}
+
+@media (min-width: 1200px) {
+    .optionBtn {
+        margin-top: 0px;
+    }
+
+    .emailKami p,
+    .butuhBantuan p {
+        font-size: 14px;
+    }
+
+    .fotoAkun {
+        width: 50%;
+    }
+
+    .noRek {
+        font-size: 28px;
+    }
+}

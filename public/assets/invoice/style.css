@@ -1,0 +1,30 @@
+.pembungkus {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.widgetFrom p,
+.widgetTo p,
+.widgetIn p {
+    line-height: 10px;
+}
+
+@media (min-width: 768px) {
+    .Total {
+        margin-left: 400px !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .Total {
+        margin-left: 550px !important;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .Total {
+        margin-left: 45em !important;
+        font-size: 20px;
+    }
+}
